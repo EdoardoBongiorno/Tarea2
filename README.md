@@ -11,7 +11,7 @@ This project implements a differential gene expression analysis pipeline on the 
 ---
 
 # Repository Structure & GitHub Link
-GitHub repository: https://github.com/EdoardoBongiorno/Tarea_2.git
+GitHub repository: https://github.com/EdoardoBongiorno/Tarea2.git
 Directory Layout:
  `src/`: Contains the main Python execution script (`01_run_deseq2.py`).
  `data/raw/`: Contains input files (`counts.csv.gz`, `metadata.csv.gz`). *Note: Excluded from GitHub.*
