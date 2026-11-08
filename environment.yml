@@ -1,0 +1,11 @@
+name: pydeseq2
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  - pandas
+  - numpy
+  - matplotlib
+  - pydeseq2
+  - gseapy
